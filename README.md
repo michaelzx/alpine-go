@@ -1,4 +1,2 @@
-build script
-```
-docker  build -t michaelzx/alpine-go:20200619 ./
-```
+# alpine-go
+change time zone to Asia/Shanghai
